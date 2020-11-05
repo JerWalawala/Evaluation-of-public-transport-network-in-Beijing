@@ -11,7 +11,7 @@ This project is a visual program for the analysis and evaluation of ten indicato
 
 
 
-通过小时最大车均载客量频率分布曲线，可以看出不同线路类型的最大频数分布，以跨五环为例，其小时最大车均载客量分布的最多的是52人/辆左右。
+通过频率分布曲线，可以看出不同线路类型的最大频数分布，以跨五环为例，其运送速度分布的最多的是18km/h左右。
 ![](./images/运送速度-频率.png)
 
 
